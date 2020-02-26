@@ -1,0 +1,5 @@
+* Initilize Project
+  #+BEGIN_SRC shell
+  spago init
+  pspy --init
+  #+END_SRC
